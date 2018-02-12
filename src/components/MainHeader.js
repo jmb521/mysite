@@ -7,7 +7,7 @@ class MainHeader extends Component {
 
         <Grid className="background">
         <Grid.Row />
-        <Grid.Row />
+        
           <Grid.Row>
           <Grid.Column width={4} />
           <Grid.Column width={8} textAlign={"center"}>
